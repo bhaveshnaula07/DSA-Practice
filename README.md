@@ -4,9 +4,9 @@
 
 ### A Complete Collection of Data Structures & Algorithms Problems and Solutions
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/DSA-Practice?style=for-the-badge&color=yellow)](https://github.com/YOUR-USERNAME/DSA-Practice/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YOUR-USERNAME/DSA-Practice?style=for-the-badge)](https://github.com/YOUR-USERNAME/DSA-Practice/forks)
-[![GitHub issues](https://img.shields.io/github/issues/YOUR-USERNAME/DSA-Practice?style=for-the-badge)](https://github.com/YOUR-USERNAME/DSA-Practice/issues)
+[![GitHub stars](https://img.shields.io/github/stars/bhaveshnaula07/DSA-Practice?style=for-the-badge&color=yellow)](https://github.com/YOUR-USERNAME/DSA-Practice/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/bhaveshnaula07/DSA-Practice?style=for-the-badge)](https://github.com/YOUR-USERNAME/DSA-Practice/forks)
+[![GitHub issues](https://img.shields.io/github/issues/bhaveshnaula07E/DSA-Practice?style=for-the-badge)](https://github.com/YOUR-USERNAME/DSA-Practice/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 ---
